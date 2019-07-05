@@ -5,5 +5,3 @@ Features -
   2. take input words as Case-insensitive
   3. Allow users to search some abbriviations like USA, NATO etc.
   4. Also suggest matching words
-Contact - @k4kratik on social media.
-Thanks for downloading.
