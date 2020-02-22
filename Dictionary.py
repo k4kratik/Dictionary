@@ -25,7 +25,7 @@ def translate(w):
         return "The Word doesn't exist, Please Re-Check-it"
 
 #word = input("Enter A word:  ")
-word = "miracle"
+word = "mirage"
 output = translate(word)
 if type(output) == list:
     for i in output:
