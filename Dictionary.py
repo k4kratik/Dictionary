@@ -24,7 +24,8 @@ def translate(w):
     else:
         return "The Word doesn't exist, Please Re-Check-it"
 
-word = input("Enter A word:  ")
+#word = input("Enter A word:  ")
+word = "miracle"
 output = translate(word)
 if type(output) == list:
     for i in output:
@@ -32,4 +33,4 @@ if type(output) == list:
 else:
     print(output)
 
-input("\n\n\n\nPress ENTER to close window")
+#input("\n\n\n\nPress ENTER to close window")
