@@ -6,4 +6,5 @@ Features -
   3. Allow users to search some abbriviations like USA, NATO etc.
   4. Also suggest matching words
 # Template:
-[![<ORG_NAME>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
