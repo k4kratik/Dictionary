@@ -34,3 +34,5 @@ else:
     print(output)
 
 #input("\n\n\n\nPress ENTER to close window")
+
+print("thanks for using this dictionary")
