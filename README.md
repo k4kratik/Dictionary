@@ -6,4 +6,4 @@ Features -
   3. Allow users to search some abbriviations like USA, NATO etc.
   4. Also suggest matching words
   
-[![k4kratik](https://circleci.com/gh/k4kratik/Dictionary.svg?style=shield)](https://github.com/)
+https://img.shields.io/circleci/build/github/k4kratik/Dictionary/circleci-project-setup
